@@ -77,3 +77,11 @@ http://127.0.0.1:5000
   - Change `app.secret_key` in `app.py`
   - Run with a proper WSGI server (e.g., gunicorn, uWSGI)
   - Use a stronger password for the admin user
+  - <img width="1592" height="930" alt="image" src="https://github.com/user-attachments/assets/00281eeb-f0c1-4710-9358-ea0cb448e529" />
+  <img width="1909" height="754" alt="image" src="https://github.com/user-attachments/assets/56877b86-3312-41c4-80d9-058c0cd94bc8" />
+<img width="1592" height="930" alt="image" src="https://github.com/user-attachments/assets/ea377164-f39d-4a14-a248-8e42b03e16a6" />
+<img width="1592" height="930" alt="image" src="https://github.com/user-attachments/assets/fc509ee8-77a6-4e60-a121-a557be42f9e1" />
+
+<img width="714" height="431" alt="image" src="https://github.com/user-attachments/assets/c3fdda06-93c1-4c0b-a68c-8baa342ab1d0" />
+<img width="1894" height="864" alt="image" src="https://github.com/user-attachments/assets/dce6e0fd-d44c-4a13-8368-3db608749bd4" />
+
